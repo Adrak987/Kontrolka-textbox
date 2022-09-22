@@ -1,0 +1,11 @@
+D:\Adrak sigma\essa1\essa1\bin\Debug\essa1.exe.config
+D:\Adrak sigma\essa1\essa1\bin\Debug\essa1.exe
+D:\Adrak sigma\essa1\essa1\bin\Debug\essa1.pdb
+D:\Adrak sigma\essa1\essa1\obj\Debug\essa1.csproj.AssemblyReference.cache
+D:\Adrak sigma\essa1\essa1\obj\Debug\essa1.csproj.SuggestedBindingRedirects.cache
+D:\Adrak sigma\essa1\essa1\obj\Debug\essa1.Form1.resources
+D:\Adrak sigma\essa1\essa1\obj\Debug\essa1.Properties.Resources.resources
+D:\Adrak sigma\essa1\essa1\obj\Debug\essa1.csproj.GenerateResource.cache
+D:\Adrak sigma\essa1\essa1\obj\Debug\essa1.csproj.CoreCompileInputs.cache
+D:\Adrak sigma\essa1\essa1\obj\Debug\essa1.exe
+D:\Adrak sigma\essa1\essa1\obj\Debug\essa1.pdb
